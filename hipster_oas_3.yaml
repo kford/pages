@@ -4,7 +4,7 @@ info:
   description: Products API for Hipster Application
   version: "1"
 servers:
-- url: http://cloud.hipster.s.apigee.com/
+- url: https://cloud.hipster.s.apigee.com/
 paths:
   /products:
     get:
